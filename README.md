@@ -8,4 +8,9 @@ Play Music is a simple music playing system with play, pause, previous and next 
 https://user-images.githubusercontent.com/84610348/143767383-32e8e1ca-6ed1-4513-9c19-fa672acf38e5.mp4
 
 
+
+Demo Link:
+https://srijita-mandal.github.io/playmusic.github.io
+
+
 Copyright © Srijita Mandal, 2021 All Rights Reserved
